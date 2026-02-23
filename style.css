@@ -79,7 +79,7 @@ nav a:hover {
   background: url('Book_cover.jpg') center/cover no-repeat,
               linear-gradient(180deg, rgba(0,0,0,0.4), rgba(0,0,0,0.7));
   display: flex;
-  justify-content: center;
+  justify-content: top;
   align-items: center;
   text-align: center;
   color: #fff;
