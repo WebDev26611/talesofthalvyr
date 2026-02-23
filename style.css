@@ -79,11 +79,11 @@ nav a:hover {
   background: url('Book_cover.jpg') center/cover no-repeat,
               linear-gradient(180deg, rgba(0,0,0,0.4), rgba(0,0,0,0.7));
   display: flex;
-  justify-content: top;
+  justify-content: center;
   align-items: center;
   text-align: center;
   color: #fff;
-  position: relative;
+  position: top;
 }
 .header h1 {
   font-size: 3rem;
